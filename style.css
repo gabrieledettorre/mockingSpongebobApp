@@ -1,0 +1,100 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    text-align: center;
+    background-color: #FFEE34;
+  }  
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Jost", sans-serif;
+  }
+
+  textarea  
+  {  
+     font-family:"Open Sans", sans-serif; 
+     font-size: 16px;
+     resize: none; 
+     padding-left: 10px;
+     padding-top: 10px;
+  }
+  .card {
+    border-radius: 30px;
+    border: none;
+    }
+
+  .footer {
+    font-size: 16px;
+    background: #D1800A;
+    color: #fff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border-top: 10px solid #fff;
+  }
+ 
+.btnGo {
+    background-color:#44c767;
+    border-radius:28px;
+    border:none;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    padding:16px 31px;
+    text-decoration:none;
+}
+.btnGo:hover {
+	background-color:#5cbf2a;
+}
+.btnGo:active {
+	position:relative;
+	top:1px;
+}
+
+.btnDel {
+    background-color:#ff4d4d;
+    border-radius:28px;
+    border:none;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    padding:16px 31px;
+    text-decoration:none;
+}
+.btnDel:hover {
+	background-color:#ff1a1a;
+}
+.btnDel:active {
+	position:relative;
+	top:1px;
+}
+
+.btnCp {
+    background-color:#4d4dff;
+    border-radius:28px;
+    border:none;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    padding:16px 31px;
+    text-decoration:none;
+}
+.btnCp:hover {
+	background-color:#0000ff;
+}
+.btnCp:active {
+	position:relative;
+	top:1px;
+}
+
+.header {
+    text-align: center;
+    background: #FFEE34;    
+    color: #3a3637;
+    font-size: 20px;
+  }
+
+  form {
+    padding-bottom: 50px;
+  }
